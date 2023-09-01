@@ -1,0 +1,49 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.carousel-inner {
+    width: 10vw;
+}
+
+.BOX1 h3 {
+    color: #323f4b;
+    font-size: 20px;
+    margin: 13px;
+}
+
+.BOX1 p {
+    color: #9aa5b1;
+    font-size: 15px;
+    margin: 13PX;
+}
+
+.BOX2 h3 {
+    color: #323f4b;
+    font-size: 20px;
+    margin: 13px;
+}
+
+.BOX2 img {
+    margin-left: 15px;
+}
+
+.BOX3 h3 {
+    color: #323f4b;
+    font-size: 20px;
+    margin: 13px;
+}
+
+.embed-responsive {
+    border-radius: 10px;
+    height: 20vh;
+    width: 100vw;
+    margin: 10px;
+    margin-left: 15px;
+}
+.carousel-item img {
+    height: 70vh;
+    width: 50vw;
+}
+.abc img {
+    height: 70vh;
+    width: 50vw;
+}
